@@ -1,0 +1,21 @@
+.hide{
+    display: none;
+}
+
+ul.repo-results{
+    list-style-type: none;
+    margin: none;
+    padding-left: none;
+
+}
+
+li.repo{
+    list-style-type: none;
+    border: 1px solid grey;
+    padding: 10px;
+    margin-bottom: 5px;
+    margin-left: 0px;
+}
+.error-message{
+    color: red;
+}
